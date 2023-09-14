@@ -1,0 +1,15 @@
+C:\Users\Lenovo Legion\Desktop\ИГЭУ\ДИПЛОМ\проект\Diplom_v4\obj\Debug\Diplom_v4.csproj.AssemblyReference.cache
+C:\Users\Lenovo Legion\Desktop\ИГЭУ\ДИПЛОМ\проект\Diplom_v4\obj\Debug\Diplom_v4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo Legion\Desktop\ИГЭУ\ДИПЛОМ\проект\Diplom_v4\obj\Debug\Diplom_v4.Properties.Resources.resources
+C:\Users\Lenovo Legion\Desktop\ИГЭУ\ДИПЛОМ\проект\Diplom_v4\obj\Debug\Diplom_v4.csproj.GenerateResource.cache
+C:\Users\Lenovo Legion\Desktop\ИГЭУ\ДИПЛОМ\проект\Diplom_v4\obj\Debug\Diplom_v4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Legion\Desktop\ИГЭУ\ДИПЛОМ\проект\Diplom_v4\obj\Debug\Diplom_v4.MainForm.resources
+C:\Users\Lenovo Legion\Desktop\ИГЭУ\ДИПЛОМ\проект\Diplom_v4\bin\Debug\Diplom_v4.exe.config
+C:\Users\Lenovo Legion\Desktop\ИГЭУ\ДИПЛОМ\проект\Diplom_v4\bin\Debug\Diplom_v4.exe.manifest
+C:\Users\Lenovo Legion\Desktop\ИГЭУ\ДИПЛОМ\проект\Diplom_v4\bin\Debug\Diplom_v4.application
+C:\Users\Lenovo Legion\Desktop\ИГЭУ\ДИПЛОМ\проект\Diplom_v4\bin\Debug\Diplom_v4.exe
+C:\Users\Lenovo Legion\Desktop\ИГЭУ\ДИПЛОМ\проект\Diplom_v4\bin\Debug\Diplom_v4.pdb
+C:\Users\Lenovo Legion\Desktop\ИГЭУ\ДИПЛОМ\проект\Diplom_v4\obj\Debug\Diplom_v4.exe.manifest
+C:\Users\Lenovo Legion\Desktop\ИГЭУ\ДИПЛОМ\проект\Diplom_v4\obj\Debug\Diplom_v4.application
+C:\Users\Lenovo Legion\Desktop\ИГЭУ\ДИПЛОМ\проект\Diplom_v4\obj\Debug\Diplom_v4.exe
+C:\Users\Lenovo Legion\Desktop\ИГЭУ\ДИПЛОМ\проект\Diplom_v4\obj\Debug\Diplom_v4.pdb
